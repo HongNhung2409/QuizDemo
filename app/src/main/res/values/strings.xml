@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizDemo</string>
+    <string name="notebook">Notebook</string>
+    <string name="vocabulary">Vocabulary</string>
+</resources>
