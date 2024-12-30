@@ -38,7 +38,7 @@ public class TranslateActivity extends AppCompatActivity {
         // Set initial text for language buttons
         buttonLang1.setText("English");
         buttonLang2.setText("Vietnamese");
-
+        
         // Set onClickListener for the Swap Button
         swapButton.setOnClickListener(view -> {
             String temp = buttonLang1.getText().toString();
